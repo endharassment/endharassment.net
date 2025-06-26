@@ -8,3 +8,5 @@ End Networked Harassment has over a decade of experience with stopping online ha
 the toxic sites and communities that cultivate hate and direct stalking mobs at society's most vulnerable.
 
 For financial information, see [finances](https://endharassment.net/finances.html)
+
+For documents, see [docs](https://endharassment.net/docs.html)

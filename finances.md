@@ -14,5 +14,3 @@
 ### Federal
 
 [990-PF](finances/2025/990PF_2025.pdf)
-
-[1023-EZ](finances/2025/1023-EZ.pdf)
